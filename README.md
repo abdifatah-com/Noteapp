@@ -44,6 +44,18 @@ Using the command-line interface you can both save and retrieve notes. Here are 
 
 Retrieve a note's content and save it to a local file:
 
+## Preview 
+
+![Screenshot 2025-06-21 105421](https://github.com/user-attachments/assets/c1727a15-fffe-4f18-9cb3-056c138d1c46)
+![Screenshot 2025-06-21 105443](https://github.com/user-attachments/assets/fe57b4ed-a6b7-4a2f-b0c0-39d44bef96e1)
+![Screenshot 2025-06-21 105457](https://github.com/user-attachments/assets/3ae105d6-0819-4f57-bedd-7426548ddee4)
+
+
+
+
+
+
+
 ```
 curl https://example.com/notes/test > test.txt
 ```
